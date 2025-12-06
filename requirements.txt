@@ -1,0 +1,5 @@
+# Core dependencies
+rich>=13.0.0
+
+# Optional: For 7z archive support
+# py7zr>=0.20.0
